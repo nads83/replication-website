@@ -176,6 +176,11 @@ img{
     margin: 10px;
 }
 
+.testimonials-image:hover{
+    color: white;
+    background-color: #e45826;
+}
+
 
 .gram-bottle:hover{
     color: white;
