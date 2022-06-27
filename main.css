@@ -182,11 +182,11 @@ img{
 }
 
 
-.gram-bottle:hover{
+/* .gram-bottle:hover{
     color: white;
     background-color: #e45826;
    
-}
+} */
 
 .popular-highlight a:hover{
     background-color: #4a3933 ;
@@ -196,9 +196,9 @@ img{
     background-color: #4a3933 ;
 }
 
-.gram-bottle a:hover{
+/* .gram-bottle a:hover{
     background-color: #4a3933 ;
-}
+} */
 
 .gram-bottle p{
  text-align: center;
